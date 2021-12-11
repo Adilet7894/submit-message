@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     background-color: #95b8d1;
@@ -36,4 +37,5 @@ p{
 
 .span{
     margin: 10px;
+    box-sizing: border-box;
 }
